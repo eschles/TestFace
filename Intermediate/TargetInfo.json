@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestFace",
+			"Path": "D:\\Windows10ProgramFiles\\UnrealStuff\\Unreal Projects\\TestFace\\Source\\TestFace.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestFaceEditor",
+			"Path": "D:\\Windows10ProgramFiles\\UnrealStuff\\Unreal Projects\\TestFace\\Source\\TestFaceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
