@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Inc\TestFace"
-/I "D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Source"
+/I "C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Inc\TestFace"
+/I "C:\Users\Reagan\Documents\Unreal Projects\TestFace\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Inc\TestFace\TestFace.init.gen.cpp"
-/FI"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\Definitions.TestFace.h"
-/Fo"D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFace.init.gen.cpp.obj"
+/FI"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Inc\TestFace\TestFace.init.gen.cpp"
+/FI"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\Definitions.TestFace.h"
+/Fo"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFace.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
