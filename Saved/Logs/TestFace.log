@@ -1,8 +1,8 @@
-﻿Log file open, 07/14/20 13:15:41
+﻿Log file open, 07/14/20 13:16:23
 LogInit: Display: Running engine for game: TestFace
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.153758
+LogStats: Stats thread started at 1.022862
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -115,12 +115,12 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
 LogInit: Warning: Incompatible or missing module: TestFace
-Running D:/Windows10ProgramFiles/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="D:/Windows10ProgramFiles/UnrealStuff/Unreal Projects/TestFace/TestFace.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
-Using 'git status' to determine working set for adaptive non-unity build (D:\Windows10ProgramFiles\UnrealStuff\Unreal Projects\TestFace).
+Running D:/Windows10ProgramFiles/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/Reagan/Documents/Unreal Projects/TestFace/TestFace.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Reagan\Documents\Unreal Projects\TestFace).
 @progress push 5%
 @progress pop
 Target is up to date
-Total execution time: 0.77 seconds
+Total execution time: 0.70 seconds
 LogInit: Warning: Still incompatible or missing module: TestFace
 LogCore: Engine exit requested (reason: EngineExit() was called)
 LogExit: Preparing to exit.
@@ -148,4 +148,4 @@ LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 LogModuleManager: Shutting down and abandoning module PakFile (4)
 LogModuleManager: Shutting down and abandoning module RSA (3)
 LogExit: Exiting.
-Log file closed, 07/14/20 13:15:50
+Log file closed, 07/14/20 13:16:32
