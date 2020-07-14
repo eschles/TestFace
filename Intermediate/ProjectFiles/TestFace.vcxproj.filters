@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestFace.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EFA3C112-4351-4B65-B77D-8B0E2923525A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestFace.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestFaceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{913AD589-9172-47F1-AE28-AFFF90634544}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestFace">
+      <UniqueIdentifier>{8DEB23DD-BFBA-4176-A9D6-60DA8B0985CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestFace\TestFace.Build.cs">
+      <Filter>Source\TestFace</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestFace\TestFace.cpp">
+      <Filter>Source\TestFace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestFace\TestFace.h">
+      <Filter>Source\TestFace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestFace\TestFaceGameModeBase.cpp">
+      <Filter>Source\TestFace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestFace\TestFaceGameModeBase.h">
+      <Filter>Source\TestFace</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Windows10ProgramFiles\\UnrealStuff\\Unreal Projects\\TestFace\\Source\\TestFace\\TestFace.Build.cs",
+		"D:\\Windows10ProgramFiles\\UnrealStuff\\Unreal Projects\\TestFace\\Source\\TestFace.Target.cs",
+		"D:\\Windows10ProgramFiles\\UnrealStuff\\Unreal Projects\\TestFace\\Source\\TestFaceEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}
