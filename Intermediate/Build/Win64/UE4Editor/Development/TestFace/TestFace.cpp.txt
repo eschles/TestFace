@@ -1,2 +1,0 @@
-C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\Definitions.TestFace.h
-c:\users\reagan\documents\unreal projects\testface\source\testface\TestFace.h
