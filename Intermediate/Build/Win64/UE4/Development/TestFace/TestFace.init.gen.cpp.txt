@@ -1,0 +1,3 @@
+C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4\Development\TestFace\Definitions.TestFace.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

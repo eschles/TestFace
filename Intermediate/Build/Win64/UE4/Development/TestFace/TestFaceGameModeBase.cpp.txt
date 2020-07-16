@@ -1,0 +1,7 @@
+C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4\Development\TestFace\Definitions.TestFace.h
+c:\users\reagan\documents\unreal projects\testface\source\testface\TestFaceGameModeBase.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+D:\Windows10ProgramFiles\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4\Inc\TestFace\TestFaceGameModeBase.generated.h
