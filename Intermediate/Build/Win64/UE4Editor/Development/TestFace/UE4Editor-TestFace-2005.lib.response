@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestFace-2005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\TestFaceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFace.cpp.obj"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFaceGameModeBase.cpp.obj"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFace.init.gen.cpp.obj"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\TestFaceGameModeBase.gen.cpp.obj"
+"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\Default.rc2.res"
+/OUT:"C:\Users\Reagan\Documents\Unreal Projects\TestFace\Intermediate\Build\Win64\UE4Editor\Development\TestFace\UE4Editor-TestFace-2005.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestFace
