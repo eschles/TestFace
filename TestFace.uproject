@@ -9,5 +9,22 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HoloLens",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"MacNoEditor",
+		"TVOS",
+		"WindowsNoEditor"
 	]
 }
